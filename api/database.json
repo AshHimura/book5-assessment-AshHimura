@@ -1,0 +1,57 @@
+{
+  "authors": [
+      {
+          "id": 1,
+          "name": "Edward Elric",
+          "emailAddress": "notApipsqueak@winrysautomail.com"
+      },
+      {
+          "id": 2,
+          "name": "Alucard",
+          "emailAddress": "areal_ingvampire@hellsing.org"
+      },
+      {
+          "id": 3,
+          "name": "Kazuma Kuwabara",
+          "emailAddress": "swordbeatsgun@genkai.net"
+      },  
+    {
+        "id": 4,
+        "name": "Alphonse Elric",
+        "emailAddress": "ntfullmetalalchemist@winrysautomail.com"
+    },
+    {
+        "id": 5,
+        "name": "Seras Victoria",
+        "emailAddress": "Police_Girl@hellsing.org"
+    },
+    {
+        "id": 36,
+        "name": "Yukina",
+        "emailAddress": "icemaiden@makaisekai.gov"
+    }
+  ],
+  "topics": [
+      {
+          "id": 1,
+          "topic": "Business"
+      },
+      {
+          "id": 2,
+          "topic": "Friendly"
+      },
+      {
+          "id": 3,
+          "topic": "Family"
+      },
+      {
+          "id": 4,
+          "topic": "Congratulations"
+      },
+      {
+          "id": 5,
+          "topic": "Condolences"
+      }
+  ],
+  "lettersCrafted" : []
+}
